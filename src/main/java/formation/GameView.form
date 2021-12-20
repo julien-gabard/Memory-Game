@@ -30,7 +30,7 @@
             <properties>
               <font size="26"/>
               <foreground color="-1"/>
-              <text value="0 Point"/>
+              <text value=""/>
             </properties>
           </component>
         </children>

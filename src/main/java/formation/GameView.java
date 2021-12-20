@@ -28,6 +28,8 @@ public class GameView extends JFrame {
 
         centerWindow(this);
 
+        labelScore.setText("0 Point");
+
         /*
         This part is used to create the card list in the view
          */
